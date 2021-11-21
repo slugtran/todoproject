@@ -27,7 +27,7 @@ npm run lint
 ```
 Login:
 email: thuy@gmail.com
-p
+password: 1234
 ```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
