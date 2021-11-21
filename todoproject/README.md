@@ -23,7 +23,7 @@ npm run build
 ```
 npm run lint
 ```
-### T
+### TEST/DEMO
 ```
 Login:
 email: thuy@gmail.com
